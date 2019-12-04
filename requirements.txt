@@ -13,7 +13,7 @@ configobj==5.0.6
 cycler==0.10.0
 dask==1.2.0
 decorator==4.4.0
-Django==2.2
+Django==2.2.8
 django-mysql==3.1.0
 docutils==0.14
 envisage==4.7.1
